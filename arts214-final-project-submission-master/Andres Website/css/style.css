@@ -1,0 +1,444 @@
+body {
+	/*height: 2500px;*/
+	/*width: 1920px;*/
+
+	background: #1A2128
+}
+header {
+	background-color: #0C1216;
+	background-size: 100%;
+}
+
+footer {
+	/*border: 1px solid red;*/
+	background-color: #0C1216;
+	background-size: 100%;
+	color: #CB9B51;
+	position: relative;
+	height: 100px;
+	text-align: center;
+	font-family: helvetica neue;
+	font-weight: lighter;
+
+}
+footer img {
+	position: relative;
+	height: 40px;
+	width: 40px;
+}
+
+nav ul a {
+padding-left: 10px;
+}
+
+a {
+	color: #CB9B51;
+	text-decoration: none;
+	padding-right: 50px;
+}
+a:hover {
+	color: #F6F2C0;
+}
+
+.logo {
+	text-align: center;
+
+}
+.logo img {
+	height: 100px;
+	width: 100px;
+}
+.navbar {
+	text-align: center;
+
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	font-family: helvetica neue;
+	color: #CB9B51;
+
+}
+
+.bg {
+	position: absolute;
+	width: 1900px;
+	height: 2500px;
+
+}
+.bg img {
+	position: absolute;
+	width: 1900px;
+	height: 2500px;
+
+}
+.video {
+	position: absolute;
+	text-align: center;
+
+}
+
+.video video {
+	width: 1900px;
+	height: 1080px;
+	opacity: 0.3;
+
+}
+
+.name {
+	position: relative;
+	width: 1900px;
+	height: 1400px;
+	text-align: center;
+	/*border: 1px solid red;*/
+
+}
+
+.name img {
+
+	width: 1080px;
+	top: 250px;
+	position: relative;
+}
+
+.arrow {
+	position: relative;
+	text-align: center;
+	left: 25px;
+}
+.arrow img {
+	position: relative;
+	width: 80px;
+	height: 80px;
+	padding-top: 225px;
+	opacity: 0.4;
+
+}
+.aboutme {
+/*	border: 1px solid red;*/
+	position: relative;
+	width: 400px;
+	height: 370px;
+	text-align: center;
+	padding-left: 760px;
+	margin: 0px
+	
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+	font-family: helvetica;
+
+	color: #0F1C21;
+
+}
+
+.aboutme2 {
+	font-size: 42px;
+}
+.leave-a-message {
+	height: 70px;
+	position: relative;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+	font-family: helvetica;
+	font-size: 28px;
+	text-align: center;
+
+	color: #0F1C21;
+
+}
+
+.message {
+	/*border: 1px solid red;*/
+	width: 400px;
+	height: 560px;
+	padding-left: 760px;
+
+	position: relative;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+	font-family: helvetica;
+
+	color: #0F1C21;
+
+}
+
+.message form {
+	border: 1px #0F1C21;
+}
+.uparrow {
+	text-align: center;
+}
+.uparrow img {
+	width: 80px;
+	height: 80px;
+	padding-top: 50px;
+	padding-left: 25px;
+}
+.biopic img {
+	position: relative;
+	width: 160px;
+	height: 300px;
+
+	float: left;
+	left: 400px;
+	bottom: 50px;
+}
+.biotxt1 {
+	height: 90px;
+	width: 1080px;
+	
+	padding-left: 600px;
+	padding-top: 20px;
+}
+
+.biotxt2 {
+	height: 80px;
+	width: 1500px;
+
+	padding-top: 50px;
+	padding-left: 250px;
+}
+.biotxt1 p {
+	font-style: italic;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	font-family: helvetica neue;
+
+	text-align: left;
+	color: #CB9B51
+}
+
+.biotxt2 p {
+	font-style: italic;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	font-family: helvetica neue;
+
+	text-align: left;
+	color: #CB9B51;
+	padding-left: 50px;
+
+}
+
+.banner{
+	height: 1080px;
+	width: 1600px;
+
+	padding-left: 150px;
+		/*border: 1px solid red;*/
+}
+
+.banner img {
+	height: 1080px;
+	width: 1600px;
+}
+.portfolio-links {
+	/*border: 1px solid red;*/
+	text-align: center;
+	padding-right: 50px;
+}
+.portfolio-links div {
+/*	position: absolute;*/
+}
+.portolio-links1 {
+	float: left;
+}
+.porfolio-links2 {
+	left: 350px
+}
+.portfolio-links3 {
+	left: 500px;
+}
+
+.portfolio-links a{
+	padding-left: 130px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 24px;
+	font-family: arenq;
+
+	color: #CB9B51;
+}
+.portfolio-links a:hover {
+	color: #F6F2C0;
+}
+
+.large-container {
+	/*border: 1px solid red;*/
+	width: 900px;
+	height:650px;
+	position: relative;
+	left: 500px;
+}
+
+.img1 {
+	/*border: 1px solid white;*/
+	width: 350px;
+	height: 650px;
+	position: absolute;
+	left: -5px;
+}
+.img2 {
+	/*border: 1px solid blue;*/
+	width: 350px;
+	height: 650px;
+	position: absolute;
+	left: 305px;
+
+}.img3 {
+	/*border: 1px solid purple;*/
+	width: 350px;
+	height: 650px;
+	position: absolute;
+	left: 579px;
+}
+.img1 img {
+	width: 750px;
+	height: 650px;
+	position: absolute;
+	left: -220px;
+
+}
+.img2 img {
+	width: 1250px;
+	height: 650px;
+	position: absolute;
+	left: -120px;
+	
+}
+.img3 img {
+	width: 1050px;
+	height: 650px;
+	position: absolute;
+	left: -210px;
+	
+}
+#contact {
+	/*border: 1px solid red;*/
+}
+.music-photo {
+	/*border: 1px solid red;*/
+	width: 1600px;
+	height: 340px;
+	overflow: hidden;
+
+}
+.music-photo img {
+	/*border: 1px solid red;*/
+	height: 1280px;
+	position: relative;
+	bottom: 890px;
+	left: 310px;
+}
+.musicfont {
+	/*border: 1px solid red;*/
+	width: 150px;
+	height: 40px;
+	color: #CB9B51;
+	font-family: arenq;
+	font-size: 36px;
+	padding-left: 520px;
+}
+
+.film-photo {
+	/*border: 1px solid red;*/
+	width: 1600px;
+	height: 340px;
+	overflow: hidden;
+
+}
+.film-photo img {
+	/*border: 1px solid red;*/
+	height:600px;
+	position: relative;
+	bottom: 260px;
+	left: 420px;
+}
+.photography-photo {
+	/*border: 1px solid red;*/
+	width: 1600px;
+	height: 340px;
+	overflow: hidden;
+
+}
+.photography-photo img {
+	/*border: 1px solid red;*/
+	height:710px;
+	position: relative;
+	bottom: 30px;
+	left: 410px;
+}
+
+.photo-container {
+	height: 400px;
+	width: 1060px;
+	position: relative;
+	margin: auto;
+}
+.videos-container {
+
+	height: 400px;
+	width: 1200px;
+	margin: auto;
+}
+.music-container {
+	border: 1px solid white;
+	height: 400px;
+	width: 1060px;
+	color: #CB9B51;
+	margin: auto;
+	text-align: left;
+}
+
+.image-source-link {
+	color: #98C3D1;
+}
+
+.mfp-with-zoom .mfp-container,
+.mfp-with-zoom.mfp-bg {
+	opacity: 0;
+	-webkit-backface-visibility: hidden;
+	/* ideally, transition speed should match zoom duration */
+	-webkit-transition: all 0.3s ease-out; 
+	-moz-transition: all 0.3s ease-out; 
+	-o-transition: all 0.3s ease-out; 
+	transition: all 0.3s ease-out;
+}
+
+.mfp-with-zoom.mfp-ready .mfp-container {
+		opacity: 1;
+}
+.mfp-with-zoom.mfp-ready.mfp-bg {
+		opacity: 0.8;
+}
+
+.mfp-with-zoom.mfp-removing .mfp-container, 
+.mfp-with-zoom.mfp-removing.mfp-bg {
+
+	opacity: 0;
+}
+.zoom-gallery {
+	padding-top: 10px;
+	width: 1080px;
+	padding-left: 90px;
+}
+.video-gallery {
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+#playlist {
+	list-style: none;
+}
+#playlist ul a {
+	color: #CB9B51;
+}
+#playlsit .current-song a {
+	color: #F6F2C0;
+}
